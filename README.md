@@ -41,7 +41,7 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 - Montelukast
 - Paclitaxel
 
-## Reference
+## References
 
 [1] [Edginton AN, Schmitt W, Willmann S. Development and evaluation of a generic physiologically based pharmacokinetic model for children. Clin Pharmacokinet. 2006;45(10):1013-34.](https://www.ncbi.nlm.nih.gov/pubmed/16984214)
 
