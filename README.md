@@ -1,8 +1,21 @@
-# Pediatric-Ontogeny-Qualification
+## Pediatric Ontogeny Qualification (PEQ)
 
-Distribution and GFR ontogeny qualification
+**Distribution and GFR ontogeny qualification**
 
-CYP3A4 ontogeny qualification
+- Containing
+  - Amikacin
+  - Vamcomycin
+  - Pregabalin
 
-CYP2C8 ontogeny qualification
+**CYP3A4 ontogeny qualification**
 
+- Containing
+  - Alfentanil
+  - Sufentanil
+  - Itraconazole
+
+**CYP2C8 ontogeny qualification**
+
+- Containing
+  - Montelukast
+  - Paclitaxel
