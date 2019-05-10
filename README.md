@@ -12,24 +12,24 @@ For qualification purpose, the following assumptions and considerations were mad
 
 ### Anthropometric and Physiological Information 
 
-Regarding the age-dependencies of the relevant anthropometric (height, weight) and physiological parameters (blood flows, organ volumes, binding protein concentrations, hematocrit, cardiac output) in children was gathered from the literature and has been previously published [[2](#reference)]. The information was incorporated into PK-Sim® and was used as default values for the simulations in children.
+Regarding the age-dependencies of the relevant anthropometric (height, weight) and physiological parameters (blood flows, organ volumes, binding protein concentrations, hematocrit, cardiac output) in children was gathered from the literature and has been previously published [[1](#reference)]. The information was incorporated into PK-Sim® and was used as default values for the simulations in children.
 
-The  applied ontogeny and variability of active processes that are built-in into PK-Sim® for translation to children, are described in the publically available ‘PK-Sim® Ontogeny Database Version 7.3 [[1](#reference)] or otherwise referenced for the specific process.
+The  applied ontogeny and variability of active processes that are built-in into PK-Sim® for translation to children, are described in the publically available ‘PK-Sim® Ontogeny Database Version 7.3 [[2](#reference)] or otherwise referenced for the specific process.
 
 ### Qualifications 
 
-**Distribution and GFR ontogeny qualification**
+**Distribution and GFR ontogeny**
 
-For Qualification of the distribution and GFR elimination of compounds, the following probe substances were included
+For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included
 
 - Amikacin
 
 - Vamcomycin
 - Pregabalin
 
-**CYP3A4 enzyme ontogeny qualification**
+**CYP3A4 enzyme ontogeny**
 
-For Qualification of the distribution and GFR elimination of compounds, the following probe substances were included
+For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included
 
 - Containing
   - Alfentanil
@@ -38,7 +38,7 @@ For Qualification of the distribution and GFR elimination of compounds, the foll
 
 **CYP2C8 enzyme ontogeny qualification**
 
-For Qualification of the distribution and GFR elimination of compounds, the following probe substances were included
+For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included
 
 - Containing
   - Montelukast
