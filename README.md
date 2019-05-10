@@ -4,7 +4,7 @@
 
 Using a developed and validated (adult) PBPK model for an *in vivo* probe substance, a pediatric PBPK model can be established for children by scaling physiology, clearance processes (as parameterized in the adult model) and age-dependent protein binding including the process specific variabilities. 
 
-For qualification purpose, the following assumptions and considerations were made, 
+For qualification purpose, during the translation of Adult PBPK to children the following assumptions and considerations were made: 
 
 - when scaling and adult model to children, it was assumed that the metabolism and excretion
   pathways are qualitatively the same in children as in adults.
