@@ -1,4 +1,4 @@
-# Pediatric Ontogeny Qualification (PEQ)
+# Introduction to Pediatric Ontogeny Qualification (PEQ)
 
 ## Translation of Adult PBPK to Children
 
@@ -26,7 +26,6 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 - Vamcomycin
 - Pregabalin
 
-
 **CYP3A4 enzyme ontogeny**
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
@@ -34,7 +33,6 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 - Alfentanil
 - Sufentanil
 - Itraconazole
-  
 
 **CYP2C8 enzyme ontogeny qualification**
 
@@ -42,7 +40,6 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 
 - Montelukast
 - Paclitaxel
-  
 
 ## Reference
 
