@@ -1,6 +1,6 @@
 # Pediatric Ontogeny Qualification (PEQ)
 
-## Translation of Adult PBPK  Model to Children
+## Translation of Adult PBPK to Children
 
 Using a developed and validated (adult) PBPK model for an *in vivo* probe substance, a pediatric PBPK model can be established for children by scaling physiology, clearance processes (as parameterized in the adult model) and age-dependent protein binding including the process specific variabilities. 
 
@@ -16,7 +16,7 @@ Regarding the age-dependencies of the relevant anthropometric (height, weight) a
 
 The  applied ontogeny and variability of active processes that are built-in into PK-Sim® for translation to children, are described in the publically available ‘PK-Sim® Ontogeny Database Version 7.3 [[2](#reference)] or otherwise referenced for the specific process.
 
-### Qualifications 
+### Qualifications of Ontogenies
 
 **Distribution and GFR ontogeny**
 
