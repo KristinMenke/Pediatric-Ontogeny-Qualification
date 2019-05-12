@@ -23,26 +23,43 @@ The  applied ontogeny and variability of active processes that are built-in into
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
 - Amikacin [[3](#reference)]
-- Vamcomycin [[3](#reference)]
-- Pregabalin [[3](#reference)]
+- Vancomycin [[4](#reference)]
+- Pregabalin [[5](#reference)]
 
 **CYP3A4 enzyme ontogeny**
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
-- Alfentanil [[4](#reference)]
-- Sufentanil [[5](#reference)]
-- Itraconazole [[6](#reference)]
+- Alfentanil [[6](#reference)]
+- Sufentanil [[7](#reference)]
+- Itraconazole [[8](#reference)]
 
 **CYP2C8 enzyme ontogeny qualification**
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
-- Montelukast [[7](#reference)]
-- Paclitaxel [[8](#reference)]
+- Montelukast [[9](#reference)]
+- Paclitaxel [[10](#reference)]
 
 ## References
 
 [1] [Edginton AN, Schmitt W, Willmann S. Development and evaluation of a generic physiologically based pharmacokinetic model for children. Clin Pharmacokinet. 2006;45(10):1013-34.](https://www.ncbi.nlm.nih.gov/pubmed/16984214)
 
 [2]  [OSPSuite.Documentation/PK-Sim Ontogeny Database Version 7.3.pdf ](https://github.com/Open-Systems-Pharmacology/OSPSuite.Documentation/blob/38cf71b384cfc25cfa0ce4d2f3addfd32757e13b/PK-Sim%20Ontogeny%20Database%20Version%207.3.pdf)
+
+[3] [Amikacin-Model, Whole-body PBPK model of Amikacin. https://github.com/Open-Systems-Pharmacology/Amikacin-Model](https://github.com/Open-Systems-Pharmacology/Amikacin-Model)
+
+[4] [Vancomycin-Model, Whole-body PBPK model of Vancomycin. https://github.com/Open-Systems-Pharmacology/Amikacin-Model](https://github.com/Open-Systems-Pharmacology/Vancomycin-Model)
+
+[5] [Pregabalin-Model, Whole-body PBPK model of Pregabalin. https://github.com/Open-Systems-Pharmacology/Pregabalin-Model](https://github.com/Open-Systems-Pharmacology/Pregabalin-Model)
+
+[6] [Alfentanil-Model, Whole-body PBPK model of Alfentanil. https://github.com/Open-Systems-Pharmacology/Alfentanil-Model](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model)
+
+[7] [Sufenatnil-Model, Whole-body PBPK model of Sufenatnil. https://github.com/Open-Systems-Pharmacology/Sufenatnil-Model](https://github.com/Open-Systems-Pharmacology/Sufenatnil-Model)
+
+[8] [Itraconazole-Model, Whole-body PBPK model of Itraconazole. https://github.com/Open-Systems-Pharmacology/Itraconazole-Model](https://github.com/Open-Systems-Pharmacology/Itraconazole-Model)
+
+[9] [Montelukast-Model, Whole-body PBPK model of Montelukast. https://github.com/Open-Systems-Pharmacology/Montelukast-Model](https://github.com/Open-Systems-Pharmacology/Montelukast-Model)
+
+[10] [Paclitaxel-Model, Whole-body PBPK model of Paclitaxel. https://github.com/Open-Systems-Pharmacology/Paclitaxel-Model](https://github.com/Open-Systems-Pharmacology/Paclitaxel-Model)
+
