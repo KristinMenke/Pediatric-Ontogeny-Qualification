@@ -22,24 +22,24 @@ The  applied ontogeny and variability of active processes that are built-in into
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
-- Amikacin
-- Vamcomycin
-- Pregabalin
+- Amikacin [[3](#reference)]
+- Vamcomycin [[3](#reference)]
+- Pregabalin [[3](#reference)]
 
 **CYP3A4 enzyme ontogeny**
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
-- Alfentanil
-- Sufentanil
-- Itraconazole
+- Alfentanil [[4](#reference)]
+- Sufentanil [[5](#reference)]
+- Itraconazole [[6](#reference)]
 
 **CYP2C8 enzyme ontogeny qualification**
 
 For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
 
-- Montelukast
-- Paclitaxel
+- Montelukast [[7](#reference)]
+- Paclitaxel [[8](#reference)]
 
 ## References
 
