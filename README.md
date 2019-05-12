@@ -55,7 +55,7 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 
 [6] [Alfentanil-Model, Whole-body PBPK model of Alfentanil. https://github.com/Open-Systems-Pharmacology/Alfentanil-Model](https://github.com/Open-Systems-Pharmacology/Alfentanil-Model)
 
-[7] [Sufenatnil-Model, Whole-body PBPK model of Sufenatnil. https://github.com/Open-Systems-Pharmacology/Sufenatnil-Model](https://github.com/Open-Systems-Pharmacology/Sufenatnil-Model)
+[7] [Sufentanil-Model, Whole-body PBPK model of Sufentanil. https://github.com/Open-Systems-Pharmacology/Sufentanil-Model](https://github.com/Open-Systems-Pharmacology/Sufentanil-Model)
 
 [8] [Itraconazole-Model, Whole-body PBPK model of Itraconazole. https://github.com/Open-Systems-Pharmacology/Itraconazole-Model](https://github.com/Open-Systems-Pharmacology/Itraconazole-Model)
 
