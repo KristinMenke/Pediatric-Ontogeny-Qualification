@@ -28,7 +28,7 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 
 **CYP3A4 enzyme ontogeny**
 
-For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
+For the Qualification of the CYP3A4 mediated elimination of compounds, the following probe substances were included:
 
 - Alfentanil [[6](#reference)]
 - Sufentanil [[7](#reference)]
@@ -36,7 +36,7 @@ For the Qualification of the distribution and GFR elimination of compounds, the 
 
 **CYP2C8 enzyme ontogeny qualification**
 
-For the Qualification of the distribution and GFR elimination of compounds, the following probe substances were included:
+For the Qualification of the CYP2C8 mediated elimination elimination of compounds, the following probe substances were included:
 
 - Montelukast [[9](#reference)]
 - Paclitaxel [[10](#reference)]
